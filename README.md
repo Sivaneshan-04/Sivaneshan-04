@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hi there, I'm Sivaneshan! 👋
 
 I'm a passionate software developer dedicated to crafting real-world projects with a strong focus on frontend development. I enjoy leveraging cutting-edge technologies to build dynamic and responsive applications.
